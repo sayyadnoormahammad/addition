@@ -1,0 +1,13 @@
+Creating epics and user stories for the project steam:
+epic1:[as a user i want to discover new and amazing games]
+[as a user i want to recomend games based on my intrest]
+[as a user i want to recommend games of genere of which i play previously]
+[as a user i want to be recommended similar games of single player or multi players]
+epic2:[as a user i want to buy a games at my prefered genere at low cost]
+[as a user i want to recomend games based on my intrest multiplayer]
+[as a user i want to recomend games of low price in b/w 200-500rs]
+[as a user i wnat to be recomended games which offers which are my intrest]
+epic3:[as a user i want games that i experiance a real time world real graphics]
+[as a user i want recomend games with high visual graphics]
+[as a user i want to be recomend which support my pc spcifications]
+[as a user i want to be recomended games with real time and amazing story massivly multi player
